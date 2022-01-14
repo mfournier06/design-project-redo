@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.h1{
+    text-align: center;
+    width: 300px;
+    padding: 10px;
+    background-color: lightgray;
+    display: inline-block;
+    font-family: 'Bebas Neue', cursive;
+    border: solid 1px none;
+    box-shadow: grey 3px 4px 3px;
+    border-style: unset;
+    position: static;
+}
+
+.h2{
+    width: fit-content;
+    padding: 10px;
+    background-color: lightgray;
+    display: inline-block;
+    font-family: 'Bebas Neue', cursive;
+    border: solid 1px none;
+    box-shadow: grey 3px 4px 3px;
+    border-style: unset;
+    position: static;
+    margin-right: 100px; 
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.h2:hover{
+    background-color: rgb(168, 168, 168);
+}
+
+a{
+    color: black;
+}
+
+.header1{
+    text-align: left;
+    margin-left: 10px;
+    position: fixed;
+    margin-top: 0%;
+    width: fit-content;
+    background-color: rgb(131, 156, 179);
+}
+
+.header2{
+    margin-left: -230px;
+    background-color: rgb(131, 156, 179);
+}
+
+header{
+    text-align: center;
+    background-color: white;
+    border: none;
+    margin-top: 0%;
+}
+
+body{
+    background-color: #ABC;
+    text-align: center;
+}
+
+h2{
+    text-decoration: underline;
+    margin-left: 190px;
+}
+
+div{
+    margin-top: 10px;
+    background-color: white;
+    display: inline-block;
+    text-align: center;
+    width: 1200px;
+    height: 200px;
+    padding: 5px;
+    margin-bottom: 20px;
+    
+}
+
+.div1{
+    margin-top: -20px;
+    background-color: rgb(131, 156, 179);
+    position: fixed;
+    display: inline-block;
+    text-align: center;
+    width: 1500px;
+    height: fit-content;
+    padding: 5px;
+    margin-bottom: 20px;
+    border: none;
+    box-shadow: rgb(113, 121, 128) 3px 4px 3px;
+    margin-left: -34px;
+}
+
+.div2{
+    margin-top: 140px;
+    height: fit-content;
+    position: static;
+    text-align: left;
+}
+
+p{
+    font-size: 17px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.p1{
+    margin-left: -650px;
+}
+
+img{
+    z-index: 0;
+    width: 700px;
+    margin-top: -10px;
+    bottom: 10px;
+    left: -100px;
+}
+
+.div3{
+    background-color: black;
+    width: 400px;
+    height: 250px;
+    margin-left: 600px;
+    margin-top: -150px;
+
+}
+
+.div4{
+    width: fit-content;
+    height: fit-content;
+    margin-bottom: 1000px;
+}
+
+.div5{
+    height: fit-content;
+}

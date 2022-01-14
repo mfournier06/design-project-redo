@@ -1,0 +1,379 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-style: italic;
+    font-family: serif;
+  }
+  
+  .p4{
+    border: none;
+    text-align: left;
+    margin: 50px 5px;
+    width: auto;
+    text-shadow: grey 2px 2px 2px;
+    text-decoration: underline;
+  }
+  
+  .p8{
+    width: 421px;
+    height: 159px;
+    text-align: center;
+    border: none;
+  }
+  
+  .gr:hover{
+    background-color: grey;
+  }
+  
+  .gr{
+    text-align: center;
+    width: auto;
+    display: inline-block;
+    padding: 5px 5px;
+    width: 200px;
+    background-color: darkgray;
+    color: #000;
+    font-size: 23px;
+  }
+  
+  .a5{
+    width: fit-content;
+    display: inline-flex;
+    color: black;
+    text-align: center;
+  }
+  
+  .grade{
+    background-color: lightgray;
+    height: 37px;
+    padding: 2px;
+    margin-top: -3px;
+    display: inline-flexbox;
+    border: solid 2px black;
+  }
+  
+  .grade2{
+    background-color: lightgray;
+    height: 37px;
+    padding: 2px;
+    margin-top: -4.2px;
+    display: inline-flexbox;
+    border: solid 2px black;
+  }
+  
+  .img{
+    display: inline-block;
+    position: fixed;
+    width: 250px;
+    height: 250px;
+    left: 40%;
+    margin-top: 20px;
+  }
+  
+  .div2{
+    background-color: lightgray;
+    border: solid 2px black;
+  }
+  
+  .div1{
+      border: solid 2px none;
+      height: 200px;
+      width:426.666666667px;
+      position: fixed;
+      bottom: 0%;
+      background-image: url(https://media.istockphoto.com/vectors/math-equations-written-on-a-blackboard-vector-id1219382595?k=20&m=1219382595&s=612x612&w=0&h=c6Sl7WmSHRzGBN7ZQmClLIhcv55vjStOPKc-GrpBseU=);
+  }
+  
+  .div2{
+      border: solid none;
+      height: 200px;
+      width: 426px;
+      text-align: right;
+      position: fixed;
+      bottom: 0%;
+      z-index: 0;
+      margin-left: 426.666666667px;
+  }
+  
+  .div3{
+    max-height: 200px;
+      border: solid 2px black;
+      height: 200px;
+      width:426.666666667px;    ;
+      text-align: right;
+      position: fixed;
+      bottom: 0%;
+      z-index: 0;
+      margin-left: 853.333333333px;
+      background-color: darkgray;
+  }
+  
+  .div4{
+    border: solid 2px black;
+    height: 395px;
+    background-repeat: no-repeat;
+    background-size: 100% 464px;
+    background-image: url(https://www.calmsage.com/wp-content/uploads/2020/04/calming-picture-for-anxiety.jpg);
+  }
+    
+  p{
+    border: solid 2px black;
+    text-align: center;
+    width: 139px;
+    position: fixed;
+    margin-top: 5px;
+    display: block;
+    height: 156px;
+  }
+  
+  .p0{
+    text-align: center;
+    background-color: darkgrey;
+    height: 158px;
+  }
+  
+  .p1{
+    position: fixed;
+    text-align: center;
+    margin: 5px 282px;
+    height: 158px;
+    width: 142px;
+    background-color: darkgray;
+  }
+  
+  .ar{
+    padding: 4px 8px;
+    margin: 2px 0px;
+    color: black;
+    display: inline-block;
+    background-color: darkgrey;
+    border: solid 2px none;
+    font-size: 20px;
+  }
+  
+  .ar1{
+    padding: 4px 9px;
+    margin: 2px 0px;
+    color: black;
+    display: inline-block;
+    background-color: darkgrey;
+    border: solid 2px none;
+    font-size: 14px;
+  }
+
+  .ar12{
+    padding: 4px 8px;
+    margin: 2px 0px;
+    color: black;
+    display: inline-block;
+    background-color: darkgrey;
+    border: solid 2px none;
+    font-size: 20px;
+  }
+
+  .ar2{
+    padding: 4px 8px;
+    margin: 2px 0px;
+    margin-left: 1.5px;
+    color: black;
+    display: inline-block;
+    background-color: darkgrey;
+    border: solid 2px none;
+    font-size: 20px;
+  }
+  
+  .ar3{
+    font-size: 15px;
+    padding: 4px 8px;
+    margin: 2px 0px;
+    margin-left: 1.5px;
+    color: black;
+    display: inline-block;
+    background-color: darkgrey;
+    border: solid 2px none;
+  }
+  
+  .p2{
+    position: fixed;
+    text-align: left;
+    margin: 5px 141px;
+    height: 158px;
+    background-color: darkgray;
+  }
+  
+  
+  h2{
+    margin-top: 7px;
+    text-align: center;
+    text-decoration: underline;
+  }
+  
+  .ar{
+      padding: 4px 8px;
+      margin: 2px 0px;
+      color: black;
+      display: inline-block;
+      background-color: darkgrey;
+      border: solid 2px none;
+      font-size: 20px;
+    }
+
+    .fr2{
+      padding: 4px 8px;
+      margin: 2px 0px;
+      color: black;
+      display: inline-block;
+      background-color: darkgrey;
+      border: solid 2px none;
+      font-size: 14.079px;
+    }
+
+    .rn1{
+      padding: 4px 8px;
+      margin: 2px 0px;
+      color: black;
+      display: inline-block;
+      background-color: darkgrey;
+      border: solid 2px none;
+      font-size: 14.079px;
+    }
+
+    .nt1{
+      padding: 4px 8px;
+      margin: 2px 0px;
+      color: black;
+      display: inline-block;
+      background-color: darkgrey;
+      border: solid 2px none;
+      font-size: 14.079px;
+    }
+
+    .as1{
+      padding: 4px 8px;
+      margin: 2px 0px;
+      color: black;
+      display: inline-block;
+      background-color: darkgrey;
+      border: solid 2px none;
+      font-size: 14.079px;
+    }
+
+    .pes{
+      padding: 4px 8px;
+      margin: 2px 0px;
+      color: black;
+      display: inline-block;
+      background-color: darkgrey;
+      border: solid 2px none;
+      font-size: 14.079px;
+      padding-bottom: -20px;
+      letter-spacing: 0px;
+    }
+
+    .mdi1{
+      padding: 4px 8px;
+      margin: 2px 0px;
+      color: black;
+      display: inline-block;
+      background-color: darkgrey;
+      border: solid 2px none;
+      font-size: 14.079px;
+    }
+
+    .mdi1:hover{
+      background-color: grey;
+    }
+
+    .pes:hover{
+      background-color: grey;
+    }
+
+    .as1:hover{
+      background-color: grey;
+    }
+
+    .nt1:hover{
+      background-color: grey;
+    }
+
+    .rn1:hover{
+      background-color: gray;
+    }
+
+    .fr2:hover{
+      background-color: gray;
+    }
+  
+    .ar:hover{
+      background-color: grey;
+    }
+  
+    .ar1:hover{
+      background-color: grey;
+    }
+
+    .ar12:hover{
+      background-color: grey;
+    }
+
+
+    .ar2:hover{
+      background-color: grey;
+    }
+  
+    .ar3:hover{
+      background-color: grey;
+    }
+  
+    body{
+      background-color: #ABC;
+      color: #123;
+    }
+    
+    ul {
+      list-style: none;
+      border: 0px solid red;
+      overflow: hidden;
+      width: 496px;
+      margin: 310px 398px;
+      position: fixed;
+      box-shadow: black 2px 5px 5px;
+      font-family: Arial;
+    }
+    
+    li{
+      width: 120px;
+      height: 40px;
+      margin: 0px 0px;
+      border: 2px solid #000;
+      border-radius: 1px;
+      float: left;
+      background-color: darkgray;
+      text-decoration: none;
+    }
+  
+    a {
+      display: block;
+      width: 120px;
+      height: 40px;
+      line-height: 40px;
+      text-decoration: none;
+      text-align: center;
+      color: white;
+    }
+  
+    
+    
+    li a:hover {
+      background-color: gray;
+      color: thistle;
+    }
+  
+    nav{
+      position: fixed;
+    }
+  
+    .gmail{
+      width: 33px;
+      height: 30px;
+    }

@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.h1{
+    text-align: center;
+    width: 300px;
+    padding: 10px;
+    background-color: lightgray;
+    display: inline-block;
+    font-family: 'Bebas Neue', cursive;
+    border: solid 1px none;
+    box-shadow: grey 3px 4px 3px;
+    border-style: unset;
+    position: static;
+}
+
+.h2{
+    width: fit-content;
+    padding: 10px;
+    background-color: lightgray;
+    display: inline-block;
+    font-family: 'Bebas Neue', cursive;
+    border: solid 1px none;
+    box-shadow: grey 3px 4px 3px;
+    border-style: unset;
+    position: static;
+    margin-right: 100px; 
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.poph{
+    margin-bottom: 25px;
+}
+
+h3{
+    z-index: 4;
+}
+
+.h2:hover{
+    background-color: rgb(168, 168, 168);
+}
+
+a{
+    color: black;
+}
+
+.header1{
+    text-align: left;
+    margin-left: 10px;
+    position: fixed;
+    margin-top: 0%;
+    width: fit-content;
+    background-color: rgb(131, 156, 179);
+}
+
+.header2{
+    margin-left: -230px;
+    background-color: rgb(131, 156, 179);
+}
+
+header{
+    text-align: center;
+    background-color: white;
+    border: none;
+    margin-top: 0%;
+}
+
+body{
+    background-color: #ABC;
+    text-align: center;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+div{
+    margin-top: 10px;
+    background-color: white;
+    display: inline-block;
+    text-align: center;
+    width: 1200px;
+    height: fit-content;
+    padding: 5px;
+    margin-bottom: 20px;
+    
+}
+
+.div1{
+    margin-top: -20px;
+    background-color: rgb(131, 156, 179);
+    position: fixed;
+    display: inline-block;
+    text-align: center;
+    width: 1500px;
+    padding: 5px;
+    margin-bottom: 20px;
+    border: none;
+    box-shadow: rgb(113, 121, 128) 3px 4px 3px;
+    margin-left: -34px;
+    height: fit-content;
+    z-index: 10;
+}
+
+.div2{
+    margin-top: 140px;
+}
+
+p{
+    font-size: 17px;
+    font-family: cursive;
+}
+
+img{
+    display: inline-block;
+    padding: 0px 20px ;
+    padding-bottom: 30px;
+}
+
+.img1{
+    display: inline-block;
+    text-align: left;
+}
+
+.img3{
+    width: 200px;
+}
+
+img{
+    width: 120px;
+}
+
+.img0{
+    width: 170px;
+}
+
+.img2{
+    width: 250px;
+}
+
+img:hover{
+    transform: scale(1.25);
+}
